@@ -87,6 +87,6 @@ The 2nd part of the 101 session:
 
 ## Send Thanks
 
-![](public/images/qr.png)
+![](http://www.fluny.com/images/bitcoin_FLUNY.png)
 
-Bitcoin gratefully accepted: `1K3NvcuZzVTueHW1qhkG2Cm3viRkh2EXJp`
+Bitcoin gratefully accepted: `1FLUNYrSCUTiFeZuNbpK9JhXheSTqCT5gC`
